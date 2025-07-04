@@ -16,6 +16,15 @@ body {
     border: 5px solid
 }
 
+.box-content {
+    padding: 40px 60px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+    border: 1px solid #e5e7eb;
+    text-align: center;
+}
+
 
 
 .box-text {
